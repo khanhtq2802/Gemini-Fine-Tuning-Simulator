@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Fine-Tuning Simulator",
+  "description": "Một ứng dụng tương tác hướng dẫn quy trình tinh chỉnh (fine-tuning) mô hình Gemini, từ chuẩn bị dữ liệu đến huấn luyện và kiểm thử.",
+  "requestFramePermissions": []
+}
